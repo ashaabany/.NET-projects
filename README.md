@@ -1,6 +1,6 @@
 # .NET-projects
 
-Project 1: Created an interface for an app that gets, posts, and deletes Jokes using ASP.NET Core with MVC. 
+## Project 1: Created an interface for an app that gets, posts, and deletes Jokes using ASP.NET Core with MVC. 
 
 Home:
 
